@@ -1,5 +1,9 @@
 # Christopher Ochs
 
+####University of Cincinnati
+
+####Class of 2020
+
 ## Contact Information
 
 - **Email:** ochscs@mail.uc.edu
@@ -7,7 +11,7 @@
 
 ## CO-OP Experience 
 
-### 	Siemens PLM - Software Engineer
+### 	Siemens PLM - Software Engineer -  January 2017 to August 2019
 
 - Architected new functionality to NX that improved the management of saved data.
 - Designed and created several prototypes that were put into production.
