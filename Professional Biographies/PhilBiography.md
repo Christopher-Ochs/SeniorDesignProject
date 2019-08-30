@@ -6,13 +6,13 @@ tallopt@mail.uc.edu
 
 ### Co-op Experience
 
-Aptera Software Inc - Fort Wayne, IN
+Aptera Software Inc - Fort Wayne, IN : May 2019 - August 2019
 
 - Developed web apps using ASP.NET and front-end frameworks including React and Angular
 - Managed client expectations and input into a project using Agile methodology
 - Deployed and wrote NativeScript application to the Google Play Store
 
-Kinetic Vision - Cincinnati, OH
+Kinetic Vision - Cincinnati, OH : August 2017 - December 2017, May 2018 - August 2018
 
 - Participated in an Agile Development application release cycle
 - Developed GUI applications in python using the PySide and PyQt libraries
@@ -20,7 +20,7 @@ Kinetic Vision - Cincinnati, OH
 - Handled client feature requests and customer training documents
 - Architected GUI applications which interfaced via backend
 
-Precision Strip Inc - Minster, OH
+Precision Strip Inc - Minster, OH : January 2017 - May 2017
 
 - Learned Progress (Open 4GL) database programming language and database best practices
 - Developed and maintained database reports for the company and clients
