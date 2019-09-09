@@ -13,9 +13,8 @@ This will be a multi-faceted project where we will be procuring our own data,
 building our own model, and establishing our own visualization of the model's results.
 
 ## Project Problem Statement
-With all of the information out there, there should be a way to properly track trends
-in the stock market. If this were a possibility, it may be possible to forsee crashes in
-the market or opportune times to increase/decrease investments.
+With all of the information available, there should be a way to properly predict trends
+in the stock market. Through accurate trend prediction in the market, investors will be able to make stronger decisions on how to proceed with their investments.
 
 ## Inadequacy of Current Solutions to Problem
 The reason we want to go this route is that a lot of trading firms use split second trading techniques which require lots of compute power. The model we want to create would intend to do longer term analysis of stock prices.
