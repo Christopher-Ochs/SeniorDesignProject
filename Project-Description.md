@@ -18,19 +18,16 @@ in the stock market. If this were a possibility, it may be possible to forsee cr
 the market or opportune times to increase/decrease investments.
 
 ## Inadequacy of Current Solutions to Problem
-The current models that are out there are not accurate enough, overfit the data, or can not reliably
-predict trends in the stock market.
+The reason we want to go this route is that a lot of trading firms use split second trading techniques which require lots of compute power. The model we want to create would intend to do longer term analysis of stock prices.
 
 ## Background Skills/Applicable Interests
-Our interests reside in machine learning and hybrid models that can be used in novel capacities. With the combined interests 
-and skills that our group possesses, we should be able to produce a quality product that all of us woud benefit from using. 
+Our interests reside in machine learning and hybrid models that can be used in novel capacities. With the combined interests and skills that our group possesses, we should be able to produce a quality product that all of us woud benefit from using. 
 
 ## Project Team Approach
 This project will include 4 major steps to complete:
 1) Develop a web scraper for data acquisition
-2) Design a model for cleaning the data we collect
+2) Design a process for cleaning the data we collect
 3) Create a hybrid ANN or CNN to predict stock trends
 4) Implement a visualization platform for the data and model results
 
-Once the project is deemed finished, it should be able to reliably predict stock market trends so that end users can make wiser 
-decisions on how and where to invest their money. 
+Once the project is deemed finished, it should be able to reliably predict stock market trends so that end users can make wiser decisions on how and where to invest their money. 
