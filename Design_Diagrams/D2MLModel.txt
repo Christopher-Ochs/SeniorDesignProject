@@ -1,0 +1,7 @@
+D2 For Machine Learning Model:
+
+We are going to need a way to split data into training data and test/validation data. One way this could be accomplished is through k-fold cross validation.
+
+At the base we want to build an ANN-type model for stock prediction.
+
+We want to train the model and visualize the statistics. In these statistics we want to show precision, accuracy, f-measure, and recall. The user will be able to view some of the performance metrics.
