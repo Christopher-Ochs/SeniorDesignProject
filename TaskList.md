@@ -14,7 +14,7 @@ Philip Tallo, Chris Ochs, Matthew Krauskopf, Kyle O'Connor
 
 ## Financial Predictive Model
 
-1. Acquire the data to train the model (Mathew)
+1. Acquire the data to train the model (Matthew)
 2. Set up a continuous flow of data into the model (Matthew)
 3. Refine ANN architecture (Kyle, Philip)
 4. Train the model (Kyle)
