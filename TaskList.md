@@ -1,6 +1,6 @@
 # Task List - Senior Design
 
-Philip Tallo, Chris Ochs, Mathew Krauskopf, Kyle O'Connor
+Philip Tallo, Chris Ochs, Matthew Krauskopf, Kyle O'Connor
 
 
 
@@ -15,7 +15,7 @@ Philip Tallo, Chris Ochs, Mathew Krauskopf, Kyle O'Connor
 ## Financial Predictive Model
 
 1. Acquire the data to train the model (Mathew)
-2. Set up a continuous flow of data into the model (Mathew)
+2. Set up a continuous flow of data into the model (Matthew)
 3. Refine ANN architecture (Kyle, Philip)
 4. Train the model (Kyle)
 5. Refine the hyper parameters of the model (Kyle)
@@ -24,7 +24,7 @@ Philip Tallo, Chris Ochs, Mathew Krauskopf, Kyle O'Connor
 
 ## Data Visualization Platform
 
-1. Develop a continuous integration pipeline for deployment (Mathew)
+1. Develop a continuous integration pipeline for deployment (Matthew)
 2. Design the UI for the website (Philip)
 3. Develop the web app (Philip)
 4. Integrate the model into the web app (Chris)
