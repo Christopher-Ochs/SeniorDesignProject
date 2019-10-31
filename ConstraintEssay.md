@@ -1,0 +1,8 @@
+# Economic Impact:
+Our project consists of predicting stock value with machine learning machanisms. This will have a direct economic impact if performance metrics allow for successful prediction of ups and downs in a specific stock based on certain priors. On top of our project having some sort of impact, we are also constrained financially. Our team can not afford expensive computing components in order to train a complex model and process the exorbitant amount of data that comes with what affects the price of a stock. This also includes how much data we can receive over time. The API only allows so many calls for free use.
+
+# Professional Impact:
+This is a fairly niche topic. We will be applying specialized knowledge of machine learning as well as financial market knowledge as well. As far as the public is concerned this has the potential to become something that allows the prediction of a stock value so that could have affects on day-to-day people who have invested in stocks as well as the company these stocks are a part of.
+
+# Legal Impact:
+If the model we create performs well, this could potentially put us into a legal matter pertaining to the SEC, FIRNA, and the FTC. Because something like this has not been done to such a degree that it is "very" successful - success being relative - there could be legal repercussions. It will be interesting to see - if successful - what types of legal impact this will have on stock trading in the future. As in all fields, as the technology furthers so does the legal/ethical boundary at which that technology is capable.
