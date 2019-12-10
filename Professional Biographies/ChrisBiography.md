@@ -1,8 +1,8 @@
 # Christopher Ochs
 
-####University of Cincinnati
+University of Cincinnati
 
-####Class of 2020
+Class of 2020
 
 ## Contact Information
 
