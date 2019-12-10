@@ -36,7 +36,9 @@ To allow users to have better control over their finances, we will provide a web
 
 [link](https://github.com/Christopher-Ochs/SeniorDesignProject/blob/master/ConstraintEssay.md)
 
-## PPT Slideshow
+## Project Slideshow
+
+[link](https://github.com/Christopher-Ochs/SeniorDesignProject/blob/master/project-presentation.pdf)
 
 ## Self Assessment Essays
 
