@@ -61,3 +61,10 @@ To allow users to have better control over their finances, we will provide a web
 [Kyle O'Connor](https://github.com/Christopher-Ochs/SeniorDesignProject/blob/master/Professional%20Biographies/KyleBiography.md)
 
 ## Appendix
+
+Technical References
+
+- [IEX API link](https://iexcloud.io/docs/api/)
+- [PyTorch](https://pytorch.org/)
+- [Python Requests Library](https://pypi.org/project/requests/2.7.0/)
+
