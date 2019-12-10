@@ -1,16 +1,28 @@
 # Senior Project: Financial Forecasting
 
+Advisor: Yizong Cheng
+
+Team Members: Matthew Krauskopf, Kyle O'Connor, Christopher Ochs, Philip Tallo
+
+## Abstract
+
+To allow users to have better control over their finances, we will provide a web-based multifaceted application. The application will allow for end users to examine specific publicly traded stocks and get a prediction, with a specific degree of certainty, on whether to buy or sell a particular stock. This functionality will allow for users to manage their finances comfortably.
+
 ## Project Description
+
+[link](https://github.com/Christopher-Ochs/SeniorDesignProject/blob/master/Project-Description.md)
 
 ## User Stories and Design Diagrams
 
-User Stories
+[User Stories](https://github.com/Christopher-Ochs/SeniorDesignProject/blob/master/User_Stories.md)
 
-Design Diagrams
+### Design Diagrams
 
-- Level 0
-- Level 1
-- Level 2
+- [Level 0 - High Level Overview](https://github.com/Christopher-Ochs/SeniorDesignProject/blob/master/Design_Diagrams/d0.png)
+- [Level 1 - Data Visualization](https://github.com/Christopher-Ochs/SeniorDesignProject/blob/master/Design_Diagrams/d1_data_visualization.JPG)
+- [Level 1 - Data Acquisition](https://github.com/Christopher-Ochs/SeniorDesignProject/blob/master/Design_Diagrams/d1_data_acquisition.png)
+- [Level 1 - Machine Learning Pipeline](https://github.com/Christopher-Ochs/SeniorDesignProject/blob/master/Design_Diagrams/d1_ml_model.JPG)
+- [Level 2 - Data Visualization](https://github.com/Christopher-Ochs/SeniorDesignProject/blob/master/Design_Diagrams/d2_data_visualization.png)
 
 ## Project Tasks and Timeline
 
