@@ -5,9 +5,10 @@
 ### Matthew Krauskopf - krauskmr@mail.uc.edu
 ### Kyle O'Connor - oconnokb@mail.uc.edu
 
-[ ] Find Faculty Advisor (Provide Email)
+### Yizong Cheng - chengy@ucmail.uc.edu
 
 ## Project Description
+
 The goal of this project is to build a machine learning model to predict trends in the stock market.
 This will be a multi-faceted project where we will be procuring our own data,
 building our own model, and establishing our own visualization of the model's results.
