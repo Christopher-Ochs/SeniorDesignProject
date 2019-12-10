@@ -26,13 +26,15 @@ Design Diagrams
 
 ## Project Tasks and Timeline
 
-Task List
+[Task List](https://github.com/Christopher-Ochs/SeniorDesignProject/blob/master/TaskList.md)
 
-Timeline
+[Timeline](https://github.com/Christopher-Ochs/SeniorDesignProject/blob/master/Timeline.md)
 
-Effort Matrix
+[Effort Matrix](https://github.com/Christopher-Ochs/SeniorDesignProject/blob/master/Effort%20Matrix.md)
 
 ## Abet Concerns Essay
+
+[link](https://github.com/Christopher-Ochs/SeniorDesignProject/blob/master/ConstraintEssay.md)
 
 ## PPT Slideshow
 
