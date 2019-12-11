@@ -93,6 +93,7 @@ Note: Entries are in hours
 | Task List                            |  2.75  |    2.75     |  2.75   | 2.75 |
 | Milestones, Timeline, Effort Matrix  |   2    |      3      |  2.25   |  2   |
 | October 16th Meeting                 |   1    |      1      |    1    |  1   |
+| Meeting 1 with Prof. Cheng           |   1    |      1      |    1    |  1   |
 | ML Tech Demoing                      |   5    |      -      |    2    | 4.5  |
 | October 23rd Meeting                 |   1    |      1      |    1    |  1   |
 | Contrainst Essay                     |  0.5   |      2      |    1    |  1   |
