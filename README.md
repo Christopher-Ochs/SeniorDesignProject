@@ -68,3 +68,5 @@ Technical References
 - [PyTorch](https://pytorch.org/)
 - [Python Requests Library](https://pypi.org/project/requests/2.7.0/)
 
+[Meeting Notes](https://github.com/Christopher-Ochs/SeniorDesignProject/tree/master/Meeting%20Notes)
+
