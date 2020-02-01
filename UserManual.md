@@ -1,29 +1,22 @@
 # **<u>User Manual</u>**
 
-## Setup
+## Creating an account and logging in
 
-1) After the initial download of the app the user will have to set up their account
+1) Go to <domain name here> The first page will a landing page prompting the user to either **login** or **sign up**. If you4already have an account continue to step #3
 
-	- The user will need to open the app
-	- The first page will be the login screen
+<image of landing page>
 
-2)  If the user already has an account use the login credentials to log in
+2) If the user doesn't have an account then the user should click **sign up**. Then the user will be redirected to the login page below which will prompt them to enter information so they can create an account.
 
-	- Else the user will click the register button below the login area
+<image of sign up page here>
 
-3) The user will fill out the following form:
+3) After filling in the form in the above step the user will be have an receive a confirmation e-mail. This step must be completed before the user will be able to use the platform
 
-​	First Name	Last Name
+<image of confirmation e-mail here>
 
-​	UserName	Email	Phone#
+4) If the user has an account or has completed steps 1 to 3 above already then they are ready to login and should return to <domain name here> and click the **login** button this time, where they will be prompted to enter their account information before they can continue to the platform.
 
-​	Password	  Confirm Password
-
-4) Post setup the User will be have to confirm their email address before continuing to the main platform
-
-5) After the user has confirmed their email they will have access to the main platform
-
-<Screenshots to be uploaded>
+<image of login page>
 
 ## **Platform Use**
 
@@ -32,8 +25,6 @@ The main user platform is where the user will be able to look at current/past st
 The user will also be able to take advantage of the machine learning model that is a part of the platform to predict stocks they are interested in.
 
 Another feature we would like to include is a way for users to manipulate the parameters of our model and/or upload their own models to the platform.
-
-
 
 ### Data Visualization
 
@@ -59,8 +50,6 @@ On the visualization side the user will also be able to view the predicted trend
 The user will see what the predicted price is, the confidence of that price in their future time-range, and a "brokers" view of what to do with that stock.
 
 The confidence will be shown to the user and the Broker-bot will tell the user to: buy, sell, or hold with a certain confidence on each.
-
-
 
 <Screenshots to be uploaded>
 
