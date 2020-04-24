@@ -10,6 +10,14 @@ To allow users to have better control over their finances, we will provide a web
 
 ## User Interface Specification
 
+### Login and Sign-up page
+
+![](./pictures/login-page.PNG)
+
+### Stock Visualization
+
+![](./pictures/graph-ui.PNG)
+
 ## Test Plan and Results
 
 [Test Plan Description](./SeniorDesignTestPlans.pdf)
