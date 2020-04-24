@@ -1,4 +1,4 @@
-Senior Project: Financial Forecasting
+Senior Project: Financial Forecasting - ML Stock Site
 
 Advisor: Yizong Cheng
 
