@@ -81,7 +81,9 @@ In order to test our frontend we used a Front End testing suite using the Karma 
 
 [<u>Kyle O'Connor</u>](https://github.com/Christopher-Ochs/SeniorDesignProject/blob/master/FinalCapstoneAssesments/OConnorFinalAssessment.docx)
 
-## Summary Of Hours - Fall Semester
+## Hour Justification
+
+### Summary Of Hours - Fall Semester
 
 | Reason                               | Philip | Christopher | Matthew | Kyle |
 | ------------------------------------ | :----: | :---------: | :-----: | :--: |
@@ -116,7 +118,7 @@ In order to test our frontend we used a Front End testing suite using the Karma 
 
 Note: Entries are in hours and are estimates of time worked
 
-## Summary of Hours - Spring Semester
+### Summary of Hours - Spring Semester
 
 | Reason                  | Philip | Christopher | Matthew | Kyle |
 | ----------------------- | ------ | ----------- | ------- | ---- |
@@ -136,3 +138,12 @@ Note: Entries are in hours and are estimates of time worked
 | Assignment 7            | 1      | 1           | 1       | 1    |
 
 Note: Entries are in hours and are estimates of time worked
+
+### Totals
+
+|              | Philip | Christopher | Matthew | Kyle  |
+| ------------ | ------ | ----------- | ------- | ----- |
+| Fall Total   | 46     | 46          | 46.25   | 46.5  |
+| Spring Total | 102    | 82          | 79      | 75    |
+| Year Total   | 148    | 128         | 125.25  | 121.5 |
+
