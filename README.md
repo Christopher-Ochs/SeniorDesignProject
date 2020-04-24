@@ -17,7 +17,6 @@ To allow users to have better control over their finances, we will provide a web
 ## Final Presentation
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_c-rMx-0ESM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## Expo Poster
 
 ![](./Poster_final.jpg)
@@ -36,9 +35,9 @@ To allow users to have better control over their finances, we will provide a web
 
 [<u>Christopher Ochs</u>](https://github.com/Christopher-Ochs/SeniorDesignProject/blob/master/FinalCapstoneAssesments/Ochs_FinalAssessment.docx)
 
-[<u>Philip Tallo</u>]([https://github.com/Christopher-Ochs/SeniorDesignProject/blob/master/FinalCapstoneAssesments/Philip%20Tallo%20-%20Final%20Self%20Assessment.pdf](https://github.com/Christopher-Ochs/SeniorDesignProject/blob/master/FinalCapstoneAssesments/Philip Tallo - Final Self Assessment.pdf))
+[<u>Philip Tallo</u>]([https://github.com/Christopher-Ochs/SeniorDesignProject/blob/master/FinalCapstoneAssesments/PhilipTallo_FinalSelfAssessment.pdf)
 
-<u>Matthew Krauskopf</u>
+[<u>Matthew Krauskopf</u>](https://github.com/Christopher-Ochs/SeniorDesignProject/blob/master/FinalCapstoneAssesments/MattKrauskopf_SelfAssessment.docx)
 
 [<u>Kyle O'Connor</u>](https://github.com/Christopher-Ochs/SeniorDesignProject/blob/master/FinalCapstoneAssesments/OConnorFinalAssessment.docx)
 
