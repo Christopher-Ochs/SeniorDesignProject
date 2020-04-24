@@ -4,13 +4,9 @@ Advisor: Yizong Cheng
 
 Team Members: Matthew Krauskopf, Kyle O'Connor, Christopher Ochs, Philip Tallo
 
-## Abstract
-
-To allow users to have better control over their finances, we will provide a web-based multifaceted application. The application will allow for end users to examine specific publicly traded stocks and get a prediction, with a specific degree of certainty, on whether to buy or sell a particular stock. This functionality will allow for users to manage their finances comfortably.
-
 ## Project Description
 
-[link](https://github.com/Christopher-Ochs/SeniorDesignProject/blob/master/Project-Description.md)
+To allow users to have better control over their finances, we will provide a web-based multifaceted application. The application will use multiple machine learning models allowing for end users to examine specific publicly traded stocks. A prediction, with a specific degree of certainty,  will be given to the user on whether the stock value is forecasted to increase or decrease. This functionality will allow for users to manage their stock market investments comfortably.s
 
 ## User Stories and Design Diagrams
 
