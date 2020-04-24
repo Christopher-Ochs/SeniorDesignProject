@@ -48,11 +48,7 @@ To allow users to have better control over their finances, we will provide a web
 
 ## Summary Of Hours
 
-Hour Time Chart
-
-Note: Entries are in hours
-
-|                                      | Philip | Christopher | Matthew | Kyle |
+| Reason                               | Philip | Christopher | Matthew | Kyle |
 | ------------------------------------ | :----: | :---------: | :-----: | :--: |
 | Professional Biography               |  1.25  |     1.5     |    1    | 0.75 |
 | September 4th Meeting                |   1    |      1      |    1    |  1   |
@@ -72,10 +68,10 @@ Note: Entries are in hours
 | Meeting 1 with Prof. Cheng           |   1    |      1      |    1    |  1   |
 | ML Tech Demoing                      |   5    |      -      |    2    | 4.5  |
 | October 23rd Meeting                 |   1    |      1      |    1    |  1   |
-| Contrainst Essay                     |  0.5   |      2      |    1    |  1   |
+| Constraint Essay                     |  0.5   |      2      |    1    |  1   |
 | October 30th Meeting                 |   1    |      1      |    1    |  1   |
 | November 6th Meeting                 |   1    |      1      |    1    |  1   |
-| Recorded Sllideshow Presentation     |   4    |     4.5     |    5    |  4   |
+| Recorded Slideshow Presentation      |   4    |     4.5     |    5    |  4   |
 | November 13th Meeting                |   1    |      1      |    1    |  1   |
 | Financial Modeling Literature Survey |   4    |      4      |    4    |  4   |
 | November 20th Meeting                |   1    |      1      |    1    |  1   |
@@ -83,3 +79,25 @@ Note: Entries are in hours
 | December 4th Meeting                 |   1    |      1      |    1    |  1   |
 | Final Design Reports                 |   2    |      1      |    2    |  1   |
 
+Note: Entries are in hours and are estimates of time worked
+
+## Summary of Hours - Spring Semester
+
+| Reason                  | Philip | Christopher | Matthew | Kyle |
+| ----------------------- | ------ | ----------- | ------- | ---- |
+| Assignment 1            | 1      | 1           | 1       | 1    |
+| Assignment 2            | 1      | 1           | 1       | 1    |
+| Assignment 3            | 2      | 2           | 2       | 2    |
+| Hackathon               | 24     | 24          | 24      | 24   |
+| Assignment 4            | 1      | 1           | 1       | 2    |
+| Assignment 5            | 1      | 1           | 3       | 1    |
+| Front End Coding        | 20     | 2           | 2       | 2    |
+| Model Development       | 2      | -           | -       | 20   |
+| Back End Development    | 10     | 20          | 10      | 2    |
+| Database Development    | 20     | 10          | 15      | -    |
+| Polish Code Before Expo | 15     | 15          | 15      | 15   |
+| Final Expo Video        | 3      | 3           | 3       | 3    |
+| Assignment 6            | 1      | 1           | 1       | 1    |
+| Assignment 7            | 1      | 1           | 1       | 1    |
+
+Note: Entries are in hours and are estimates of time worked
