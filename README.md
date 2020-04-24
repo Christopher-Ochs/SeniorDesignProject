@@ -8,13 +8,22 @@ Team Members: Matthew Krauskopf, Kyle O'Connor, Christopher Ochs, Philip Tallo
 
 To allow users to have better control over their finances, we will provide a web-based multifaceted application. The application will use multiple machine learning models allowing for end users to examine specific publicly traded stocks. A prediction, with a specific degree of certainty,  will be given to the user on whether the stock value is forecasted to increase or decrease. This functionality will allow for users to manage their stock market investments comfortably
 
-## User Interface
-#### Login and Sign-up page
-![](./pictures/login-page.PNG)
+## User Interface Specification
 
-#### Stock Visualization
-![](./pictures/graph-ui.PNG)
+[Test Plan Description](./Senior Design Test Plans.pdf)
 
+|      | Normal / Abnormal / Boundary | Blackbox / Whitebox | Functional / Performance | Unit / Integration | Passed / Failed |
+| ---- | ---------------------------- | ------------------- | ------------------------ | ------------------ | --------------- |
+| DA1  | Normal                       | Blackbox            | Performance              | Integration        | Passed          |
+| DA2  | Boundary                     | Blackbox            | Performance              | Unit               | Passed          |
+| DA3  | Normal                       | Whitebox            | Functional               | Unit               | Passed          |
+| DA4  | Normal                       | Blackbox            | Functional               | Unit               | Passed          |
+| DA5  | Normal                       | Blackbox            | Functional               | Unit               | Passed          |
+| DV1  | Normal                       | Whitebox            | Functional               | Integration        | Passed          |
+| DV2  | Normal                       | Whitebox            | Functional               | Integration        | Passed          |
+| DV3  | Normal                       | Blackbox            | Performance              | Integration        | Passed          |
+| DV4  | Normal                       | Blackbox            | Performance              | Integration        | Passed          |
+| MV1  | Normal                       | Blackbox            | Performance              | Unit               | Passed          |
 
 ## Test Plan and Results
 
@@ -50,9 +59,7 @@ To allow users to have better control over their finances, we will provide a web
 
 [<u>Kyle O'Connor</u>](https://github.com/Christopher-Ochs/SeniorDesignProject/blob/master/FinalCapstoneAssesments/OConnorFinalAssessment.docx)
 
-
-
-## Summary Of Hours
+## Summary Of Hours - Fall Semester
 
 | Reason                               | Philip | Christopher | Matthew | Kyle |
 | ------------------------------------ | :----: | :---------: | :-----: | :--: |
