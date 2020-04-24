@@ -10,6 +10,8 @@ To allow users to have better control over their finances, we will provide a web
 
 ## User Interface Specification
 
+## Test Plan and Results
+
 [Test Plan Description](./SeniorDesignTestPlans.pdf)
 
 |      | Normal / Abnormal / Boundary | Blackbox / Whitebox | Functional / Performance | Unit / Integration | Passed / Failed |
@@ -24,8 +26,6 @@ To allow users to have better control over their finances, we will provide a web
 | DV3  | Normal                       | Blackbox            | Performance              | Integration        | Passed          |
 | DV4  | Normal                       | Blackbox            | Performance              | Integration        | Passed          |
 | MV1  | Normal                       | Blackbox            | Performance              | Unit               | Passed          |
-
-## Test Plan and Results
 
 ## User Manual
 
