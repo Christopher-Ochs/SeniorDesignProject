@@ -10,7 +10,7 @@ To allow users to have better control over their finances, we will provide a web
 
 ## User Interface Specification
 
-[Test Plan Description](./Senior Design Test Plans.pdf)
+[Test Plan Description](./SeniorDesignTestPlans.pdf)
 
 |      | Normal / Abnormal / Boundary | Blackbox / Whitebox | Functional / Performance | Unit / Integration | Passed / Failed |
 | ---- | ---------------------------- | ------------------- | ------------------------ | ------------------ | --------------- |
