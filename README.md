@@ -18,7 +18,7 @@ To allow users to have better control over their finances, we will provide a web
 
 ## Final Presentation
 
-![youtube video](https://www.youtube.com/watch?v=_c-rMx-0ESM&list=PLrQTsQtz1gDhyIXxil3HSHzLsWgYWdqUH&index=3&t=0s)
+[youtube video](https://www.youtube.com/watch?v=_c-rMx-0ESM&list=PLrQTsQtz1gDhyIXxil3HSHzLsWgYWdqUH&index=3&t=0s)
 
 ## Expo Poster
 
