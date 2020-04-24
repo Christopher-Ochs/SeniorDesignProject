@@ -24,6 +24,14 @@ To allow users to have better control over their finances, we will provide a web
 
 Our testing approach will be heavily focused upon unit testing. We need to ensure that these separate systems are able to work concurrently to help our program function properly. We will test positive and negative scenarios using generated data, making sure that we specifically handle all edge cases sufficiently. We will also implement unit tests to ensure API functionality. Finally, all classes will have complete unit test coverage, which are not listed below as they would be repetitive and tedious.
 
+### Test Execution
+
+In order to execute our test we had a python testing suite that would test all our backend classes and model specifications.
+
+In order to test our frontend we used a Front End testing suite using the Karma test runner.
+
+### Test Description
+
 [Test Plan Description](./SeniorDesignTestPlans.pdf)
 
 |      | Normal / Abnormal / Boundary | Blackbox / Whitebox | Functional / Performance | Unit / Integration | Passed / Failed |
