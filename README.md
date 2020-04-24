@@ -6,7 +6,7 @@ Team Members: Matthew Krauskopf, Kyle O'Connor, Christopher Ochs, Philip Tallo
 
 ## Project Description
 
-To allow users to have better control over their finances, we will provide a web-based multifaceted application. The application will use multiple machine learning models allowing for end users to examine specific publicly traded stocks. A prediction, with a specific degree of certainty,  will be given to the user on whether the stock value is forecasted to increase or decrease. This functionality will allow for users to manage their stock market investments comfortably
+To allow users to have better control over their finances, we will provide a web-based multifaceted application. The application will use multiple machine learning models allowing for end users to examine specific publicly traded stocks. A prediction, with a specific degree of certainty,  will be given to the user on whether the stock value is forecasted to increase or decrease. This functionality will allow for users to manage their stock market investments comfortably.
 
 ## User Interface Specification
 
@@ -153,18 +153,28 @@ Note: Entries are in hours and are estimates of time worked
 In order to create an excellent web app numerous hours of development, design, testing, and refactoring were necessary. This app was quite technically deep and required the integration of numerous technologies.
 
 #### Christopher Ochs
- I was personally responsible for 
+ I was personally responsible for: 
 
 - the implementation of the backend architecture
 - helped integrate and train models
 - helped edit numerous videos 
-- helped complete general assignments for the course.
+- helped complete general assignments for the course
 
 #### Philip Tallo
 
- I was personally responsible for
+ I was personally responsible for:
 
 - implementing the entire Front End react app
 - overseeing and refactoring database code
-- overseeing and architecting backend code. 
+- overseeing and architecting backend code
 - helping complete assignments for the senior design class
+
+<h4>Kyle O'Connor</h4>
+
+I was personally responsible for:
+
+- Building and designing model architecture
+- Formatting data for model tensors
+- Training the model
+- Tuning model hyperparameters
+- Integrating model into the app
