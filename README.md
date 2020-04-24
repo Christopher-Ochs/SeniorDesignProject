@@ -16,11 +16,11 @@ To allow users to have better control over their finances, we will provide a web
 
 ## Final Presentation
 
-![](/Users/christopherochs/School/2019/SeniorDesign/SeniorDesignProject/Poster_final.jpg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_c-rMx-0ESM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Expo Poster
 
-[](https://www.youtube.com/watch?v=_c-rMx-0ESM&list=PLrQTsQtz1gDhyIXxil3HSHzLsWgYWdqUH&index=3&t=0s)
+![](./Poster_final.jpg)
 
 ## Initial Assessment
 
