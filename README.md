@@ -120,22 +120,23 @@ Note: Entries are in hours and are estimates of time worked
 
 ### Summary of Hours - Spring Semester
 
-| Reason                  | Philip | Christopher | Matthew | Kyle |
-| ----------------------- | ------ | ----------- | ------- | ---- |
-| Assignment 1            | 1      | 1           | 1       | 1    |
-| Assignment 2            | 1      | 1           | 1       | 1    |
-| Assignment 3            | 2      | 2           | 2       | 2    |
-| Hackathon               | 24     | 24          | 24      | 24   |
-| Assignment 4            | 1      | 1           | 1       | 2    |
-| Assignment 5            | 1      | 1           | 3       | 1    |
-| Front End Coding        | 20     | 2           | 2       | 2    |
-| Model Development       | 2      | -           | -       | 20   |
-| Back End Development    | 10     | 20          | 10      | 2    |
-| Database Development    | 20     | 10          | 15      | -    |
-| Polish Code Before Expo | 15     | 15          | 15      | 15   |
-| Final Expo Video        | 3      | 3           | 3       | 3    |
-| Assignment 6            | 1      | 1           | 1       | 1    |
-| Assignment 7            | 1      | 1           | 1       | 1    |
+- | Reason                  | Philip | Christopher | Matthew | Kyle |
+  | ----------------------- | ------ | ----------- | ------- | ---- |
+  | Assignment 1            | 1      | 1           | 1       | 1    |
+  | Assignment 2            | 1      | 1           | 1       | 1    |
+  | Assignment 3            | 2      | 2           | 2       | 2    |
+  | Hackathon               | 24     | 24          | 24      | 24   |
+  | Assignment 4            | 1      | 1           | 1       | 2    |
+  | Assignment 5            | 1      | 1           | 3       | 1    |
+  | Front End Coding        | 20     | 2           | 2       | 2    |
+  | Model Development       | 2      | -           | -       | 20   |
+  | Back End Development    | 10     | 20          | 10      | 2    |
+  | Database Development    | 20     | 10          | 15      | -    |
+  | Polish Code Before Expo | 15     | 15          | 15      | 15   |
+  | Final Expo Video        | 3      | 3           | 3       | 3    |
+  | Assignment 6            | 1      | 1           | 1       | 1    |
+  | Assignment 7            | 1      | 1           | 1       | 1    |
+
 
 Note: Entries are in hours and are estimates of time worked
 
@@ -148,5 +149,22 @@ Note: Entries are in hours and are estimates of time worked
 | Year Total   | 148    | 128         | 125.25  | 121.5 |
 
 ### Hour of Justification
+
+In order to create an excellent web app numerous hours of development, design, testing, and refactoring were necessary. This app was quite technically deep and required the integration of numerous technologies.
+
 #### Christopher Ochs
-In order to create an excellent web app numerous hours of development, design, testing, and refacotring were necessary. This app was quite technically deep and required the integration of numerous technologies. I was personally responsable for the impemenation of the backend archeticeture. Also, I helpted integrate and train models. Fianlly, I helped edit numerous videos and genral assignements for the course.
+ I was personally responsible for 
+
+- the implementation of the backend architecture
+- helped integrate and train models
+- helped edit numerous videos 
+- helped complete general assignments for the course.
+
+#### Philip Tallo
+
+ I was personally responsible for
+
+- implementing the entire Front End react app
+- overseeing and refactoring database code
+- overseeing and architecting backend code. 
+- helping complete assignments for the senior design class
