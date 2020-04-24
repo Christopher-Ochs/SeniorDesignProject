@@ -133,7 +133,7 @@ Note: Entries are in hours and are estimates of time worked
   | Back End Development    | 10     | 20          | 10      | 2    |
   | Database Development    | 20     | 10          | 15      | -    |
   | Polish Code Before Expo | 15     | 15          | 15      | 15   |
-  | Final Expo Video        | 3      | 3           | 3       | 3    |
+  | Final Expo Video        | 3      | 3           | 7       | 3    |
   | Assignment 6            | 1      | 1           | 1       | 1    |
   | Assignment 7            | 1      | 1           | 1       | 1    |
 
@@ -145,8 +145,8 @@ Note: Entries are in hours and are estimates of time worked
 |              | Philip | Christopher | Matthew | Kyle  |
 | ------------ | ------ | ----------- | ------- | ----- |
 | Fall Total   | 46     | 46          | 46.25   | 46.5  |
-| Spring Total | 102    | 82          | 79      | 75    |
-| Year Total   | 148    | 128         | 125.25  | 121.5 |
+| Spring Total | 102    | 82          | 83      | 75    |
+| Year Total   | 148    | 128         | 129.25  | 121.5 |
 
 ### Hour of Justification
 
@@ -178,3 +178,12 @@ I was personally responsible for:
 - Training the model
 - Tuning model hyperparameters
 - Integrating model into the app
+
+#### Matthew Krauskopf
+
+I was personally responsible for:
+
+- developing the database code
+- creating the Design Expo poster
+- adding to & editing the Final Presentation Video
+- helping to complete assignments for senior design
