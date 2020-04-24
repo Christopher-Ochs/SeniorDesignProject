@@ -51,6 +51,8 @@ In order to test our frontend we used a Front End testing suite using the Karma 
 
 [Link to user manual](./UserManual.md)
 
+[FAQ](./FAQs.md)
+
 ## Final Presentation
 
 [youtube video](https://www.youtube.com/watch?v=_c-rMx-0ESM&list=PLrQTsQtz1gDhyIXxil3HSHzLsWgYWdqUH&index=3&t=0s)
