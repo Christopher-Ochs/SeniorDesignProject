@@ -18,7 +18,8 @@ To allow users to have better control over their finances, we will provide a web
 
 ## Final Presentation
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_c-rMx-0ESM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![youtube video](https://www.youtube.com/watch?v=_c-rMx-0ESM&list=PLrQTsQtz1gDhyIXxil3HSHzLsWgYWdqUH&index=3&t=0s)
+
 ## Expo Poster
 
 ![](./Poster_final.jpg)
