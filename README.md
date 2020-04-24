@@ -147,3 +147,6 @@ Note: Entries are in hours and are estimates of time worked
 | Spring Total | 102    | 82          | 79      | 75    |
 | Year Total   | 148    | 128         | 125.25  | 121.5 |
 
+### Hour of Justification
+#### Christopher Ochs
+In order to create an excellent web app numerous hours of development, design, testing, and refacotring were necessary. This app was quite technically deep and required the integration of numerous technologies. I was personally responsable for the impemenation of the backend archeticeture. Also, I helpted integrate and train models. Fianlly, I helped edit numerous videos and genral assignements for the course.
