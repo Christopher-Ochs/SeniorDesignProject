@@ -30,6 +30,16 @@ To allow users to have better control over their finances, we will provide a web
 
 ## Final Assessments
 
+[<u>Christopher Ochs</u>](https://github.com/Christopher-Ochs/SeniorDesignProject/blob/master/FinalCapstoneAssesments/Ochs_FinalAssessment.docx)
+
+[<u>Philip Tallo</u>]([https://github.com/Christopher-Ochs/SeniorDesignProject/blob/master/FinalCapstoneAssesments/Philip%20Tallo%20-%20Final%20Self%20Assessment.pdf](https://github.com/Christopher-Ochs/SeniorDesignProject/blob/master/FinalCapstoneAssesments/Philip Tallo - Final Self Assessment.pdf))
+
+<u>Matthew Krauskopf</u>
+
+[<u>Kyle O'Connor</u>](https://github.com/Christopher-Ochs/SeniorDesignProject/blob/master/FinalCapstoneAssesments/OConnorFinalAssessment.docx)
+
+
+
 ## Summary Of Hours
 
 Hour Time Chart
