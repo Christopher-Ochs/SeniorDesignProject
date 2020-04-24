@@ -14,6 +14,8 @@ To allow users to have better control over their finances, we will provide a web
 
 ## User Manual
 
+[Link to user manual](./UserManual.md)
+
 ## Final Presentation
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_c-rMx-0ESM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
